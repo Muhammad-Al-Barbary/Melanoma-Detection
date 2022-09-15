@@ -21,4 +21,4 @@ Results:
   ANN: at 192 PCA Components
   
     Training Accuracy= 92.0%
-    Testing Accuracy= 88.0%
+    Testing Accuracy= 86.0%
