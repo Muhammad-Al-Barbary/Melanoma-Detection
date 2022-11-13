@@ -1,5 +1,5 @@
 # Melanoma Detection
-Melanoma Cancer Detection using AI techniques
+Melanoma Cancer Detection using AI techniques.
 
 Used Algorithms:
 1. Principle Component Analysis (PCA)
